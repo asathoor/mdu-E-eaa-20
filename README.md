@@ -2,4 +2,8 @@
 
 ## Min underoverskrift
 
-Her er undervisningsmaterialer for klassen
+Her er undervisningsmaterialer for klassen.
+
+## Direkte fra klassen
+
+Her er koden. Og et link [Danmarks Radio](https://dr.dk)
